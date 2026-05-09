@@ -24,7 +24,7 @@
     from all source files in the program, then also delete it here.
 
     Copyright 2017-2020 Telegram Systems LLP
-*/
+*/@jonathancombs782
 #pragma once
 
 #include <map>
